@@ -34,7 +34,7 @@ Scikit-Learn • Pandas • NumPy • Hugging Face • NLP • Feature Engineeri
 
 ### Generative AI
 
-LangChain • LangGraph • RAG • Prompt Engineering • OpenAI API • Agentic AI
+LangChain • LangGraph • RAG • Prompt Engineering • OpenCV • Agentic AI
 
 ### Backend Development
 
