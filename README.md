@@ -1,97 +1,106 @@
-@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Chukka
 
-<!--
-**Ziyaur-Rahaman/Ziyaur-Rahaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Generative AI Developer | Python Developer | FastAPI | NLP | Machine Learning**
 
-Here are some ideas to get you started:
+I'm a B.Tech student in Artificial Intelligence & Machine Learning passionate about building intelligent AI applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Ziyaur Rahaman Shaik
+My interests include Generative AI, LLMs, RAG systems, NLP, backend development, and AI-powered automation. I enjoy turning ideas into practical software solutions and continuously learning new technologies.
 
-**Full Stack AI Developer | Python | SQL | Node.js | Express | MongoDB | Machine Learning**
-
-I’m a BTech student in Artificial Intelligence & Machine Learning with a deep passion for building
-**intelligent backend systems** and **real-world ML applications**.  
-I love working at the intersection of **AI, automation, and scalable web systems**.
-
-📍 Kolakaluru, Guntur, India  
-🔗 GitHub: https://github.com/Ziyaur-Rahaman  
-🔗 LinkedIn: https://linkedin.com/in/ziyaur-rahaman-shaik  
+📍 Andhra Pradesh, India
+🔗 LinkedIn: https://linkedin.com/in/rohan-ch-67a2b026a
+📧 Email: [rohanchukka4126@gmail.com](mailto:rohanchukka4126@gmail.com)
 
 ---
 
 ## 🚀 What I Do
-- Build AI-powered backend systems using **Python, Flask, Node.js, and REST APIs**
-- Develop ML pipelines for **prediction, insights, and automation**
-- Work with real-time data from APIs and convert it into **actionable intelligence**
-- Design scalable systems with **MongoDB & MySQL**
+
+* Build AI-powered applications using Python and modern AI frameworks
+* Develop Generative AI and RAG-based systems using LangChain & LangGraph
+* Create REST APIs using FastAPI and Django
+* Work with NLP, LLMs, and AI automation solutions
+* Design scalable backend systems and data pipelines
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Python, JavaScript, SQL  
+### Languages
 
-**Backend & Web:**  
-Flask, Node.js, Express.js, REST APIs, HTML, CSS, Bootstrap  
+Python • Java • SQL 
 
-**Databases:**  
-MongoDB, MySQL  
+### AI / Machine Learning
 
-**Machine Learning:**  
-Scikit-learn, Pandas, NumPy  
+Scikit-Learn • Pandas • NumPy • Hugging Face • NLP • Feature Engineering
 
-**Tools:**  
-Git, GitHub, VS Code, Jupyter Notebook, Postman  
+### Generative AI
+
+LangChain • LangGraph • RAG • Prompt Engineering • OpenAI API • Agentic AI
+
+### Backend Development
+
+FastAPI • Django • Django REST Framework • Streamlit • REST APIs • JWT Authentication
+
+### Databases
+
+MySQL • PostgreSQL • ChromaDB • FAISS • Redis
+
+### Tools
+
+Git • GitHub • Linux • Docker • MLflow • VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 AI-Driven Smart Air Quality Intelligence System
-**Node.js, Express.js, Machine Learning, APIs**
-- Built a backend to collect real-time air quality data (AQI, PM2.5, PM10, NO₂, CO).
-- Generated AI-based explanations, health impact insights, and safety recommendations.
-- Designed interactive dashboards for monitoring pollution trends.
+### 🤖 AI Resume ATS System
 
-### 🔹 Disaster Prediction System
-**Python, Flask, Machine Learning, Weather APIs**
-- Developed ML models to forecast floods, earthquakes, and heavy rainfall.
-- Integrated real-time weather data for dynamic risk prediction.
-- Built a Flask-based web interface for decision support.
+* Built an AI-powered Applicant Tracking System using NLP and FastAPI
+* Implemented resume parsing, skill extraction, and candidate ranking
+* Integrated PostgreSQL for efficient resume management
+
+### 🏋️ AI Gym Coach
+
+* Developed an AI-powered fitness coaching application using OpenCV and MediaPipe
+* Implemented real-time posture detection and exercise tracking
+* Added LLM-powered voice coaching using Groq API and gTTS
+
+### 💬 Chatbot with Memory
+
+* Built an intelligent conversational AI chatbot with long-term memory
+* Implemented context retention and personalized interactions
+* Integrated modern LLM workflows and RAG architecture
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Artificial Intelligence & Machine Learning**  
-Vasireddy Venkatadri Institute of Technology (VVIT) — *2022–2026*  
-CGPA: **8.83 / 10**
+**B.Tech – Artificial Intelligence & Machine Learning**
+Vasireddy Venkatadri Institute of Technology (VVIT)
+2022 – 2026
 
 ---
 
 ## 📜 Certifications
-- Programming, Data Structures & Algorithms Using Python — NPTEL  
-- Introduction to Machine Learning — NPTEL  
-- Full Stack Development — Infosys  
-- Python for Data Science & ML Bootcamp — Udemy  
-- The Complete SQL Bootcamp — Udemy  
+
+🏆 Google AI Professional Certificate
+
+🏆 Oracle Cloud Infrastructure Certified Generative AI Professional
+
+🏆 Google Data Analytics Professional Certificate
+
+🏆 Introduction to Data Science – Cisco
+
+🏆 Machine Learning with Python – IBM
 
 ---
 
-## 🌱 Beyond Tech
-Gardening 🌿 | Playing Badminton 🏸 | Exploring AI Innovations
+## 🌱 Currently Learning
+
+* Agentic AI Systems
+* Advanced RAG Architectures
+* LLM Fine-Tuning
+* Cloud & MLOps
 
 ---
 
-> *“Turning data into intelligent, real-world systems.”*
+> "Building intelligent systems that create real-world impact."
